@@ -35,13 +35,16 @@
 
 <p>
     
-   
-    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI%20-%23F2C811.svg?logo=power-bi&logoColor=black"></a>
-    <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%23217346.svg?logo=microsoft-excel&logoColor=white"></a>
-    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%23E97627.svg?logo=tableau&logoColor=white"></a>
-    <a href="#"><img alt="Google Workspace" src="https://img.shields.io/badge/Google%20Workspace%20-%234285F4.svg?logo=google&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+powerbi"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI%20-%23F2C811.svg?logo=power-bi&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+excel"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%23217346.svg?logo=microsoft-excel&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+tableau"><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%23E97627.svg?logo=tableau&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+googlesheet"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a> 
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+jupyter"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+vscode"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+colab"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+notion"><img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23000000.svg?logo=notion&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+trello"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%230052CC.svg?logo=trello&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+microsoft365"><img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft%20365%20-%230078D4.svg?logo=microsoft-365&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+googledocs"><img alt="Google Workspace" src="https://img.shields.io/badge/Google%20Workspace%20-%234285F4.svg?logo=google&logoColor=white"></a>
+
 </p>
