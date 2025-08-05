@@ -4,6 +4,17 @@
   
   
 <!--<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">-->
+
+
+
+**About Me!**
+- 👨🏽‍💻 I am an Economics student at the Universidad del Atlántico, with a focus on data analysis.
+- 🌱 I am currently expanding my knowledge in data analytics and exploring Python for statistical modeling and data visualization.
+- 🤔 My interests lie in economic analysis and leveraging data to drive business decisions and strategic planning.
+- 💬 Feel free to ask me anything about my projects or my experience applying economic principles through data. I'm always open to learning and sharing.
+- 📫 You can reach me at buelvasrodelojuansebastian@gmail.com.
+
+
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
