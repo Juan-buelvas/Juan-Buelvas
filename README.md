@@ -59,3 +59,9 @@
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+googledocs"><img alt="Google Workspace" src="https://img.shields.io/badge/Google%20Workspace%20-%234285F4.svg?logo=google&logoColor=white"></a>
 
 </p>
+
+### Contact
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+
+</p>
