@@ -62,6 +62,6 @@
 
 ### Contact
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/juan-sebastian-buelvas-70673633b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
 
 </p>
