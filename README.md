@@ -63,5 +63,6 @@
 ### Contact
 <p>
 <a href="https://www.linkedin.com/in/juan-sebastian-buelvas-70673633b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/qr/EMA2CEFO5MSCA1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"></a>
 
 </p>
